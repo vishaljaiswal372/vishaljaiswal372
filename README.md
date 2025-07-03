@@ -33,7 +33,7 @@ Tools:     🏗️ Git | Postman
 <p align="left">
 <a href="https://linkedin.com/in/vishal jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal jaiswal" height="30" width="40" /></a>
 <a href="https://instagram.com/vishal_denzel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishal_denzel" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vishal2004jais" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vishal2004jais" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/next_crane_63" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vishal2004jais" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vishal2004jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishal2004jaiswal" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vishal200oazh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishal200oazh" height="30" width="40" /></a>
 </p>
