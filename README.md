@@ -4,7 +4,7 @@
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" >
 
-- 🌱 I’m currently learning **cohort-3.0 course of harkirat singh**
+- 🌱 I’m currently enroll in **cohort-3.0 course of harkirat singh**
 
 - 📫 How to reach me **vishal2004jaiswal@gmail.com**
 
