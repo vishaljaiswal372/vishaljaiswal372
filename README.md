@@ -22,7 +22,7 @@ Tools:     🏗️ Git | Postman
 
 ## ⚡ Competitive Programming
 
-🔥 Solved **700+ DSA problems** on platforms like LeetCode.\
+🔥 Solved **1000+ DSA problems** on platforms like LeetCode.\
 🏆 Participated in **numerous coding competitions** and problem-solving challenges.\
 🧠 Strong grasp of **Data Structures & Algorithms**.
 
